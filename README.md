@@ -1,3 +1,8 @@
+# POSCO 청년 AI BigData 아카데미
+https://youth.posco.com/posco/edu/index.php?mod=academy&pag=aca01#khwhay
+
+
+
 ![슬라이드1](https://github.com/Seojiii/ai_project/assets/94425171/248704cb-4b80-47e0-86b3-538b1d44dc77)
 ![슬라이드2](https://github.com/Seojiii/ai_project/assets/94425171/45436e98-42f8-4066-b3ad-401f71028a01)
 ![슬라이드3](https://github.com/Seojiii/ai_project/assets/94425171/0410a4eb-c43b-457a-8d5d-a8fcf0db36ce)
