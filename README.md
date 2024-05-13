@@ -1,4 +1,6 @@
-# POSCO 청년 AI BigData 아카데미
+# AI_Project
+
+- POSCO 청년 AI BigData 아카데미
 https://youth.posco.com/posco/edu/index.php?mod=academy&pag=aca01#khwhay
 
 
